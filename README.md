@@ -1,16 +1,22 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=neestoor7&fontSize=80" width="100%"/>
 
-<!--
-**neestoor7/neestoor7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### sobre mí
+- trabajando en nuevos proyectos.
+- aprendiendo nuevas tecnologías.
 
-Here are some ideas to get you started:
+### mis redes
+<a href="https://youtube.com/@byRaspy" target="_blank">
+  <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="youtube"/>
+</a>
+<a href="https://twitter.com/byRaspy" target="_blank">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="twitter"/>
+</a>
+<a href="https://tiktok.com/@byRaspy" target="_blank">
+  <img src="https://img.shields.io/badge/tiktok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="tiktok"/>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### estadísticas de github
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=neestoor7&show_icons=true&theme=radical" alt="stats de neestoor7" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neestoor7&theme=radical" alt="racha de neestoor7" />
+</div>
