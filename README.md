@@ -5,13 +5,13 @@
 - aprendiendo nuevas tecnologías.
 
 ### mis redes
-<a href="https://youtube.com/@byRaspy" target="_blank">
+<a href="https://youtube.com/@byRaspy7" target="_blank">
   <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="youtube"/>
 </a>
 <a href="https://twitter.com/byRaspy" target="_blank">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="twitter"/>
 </a>
-<a href="https://tiktok.com/@byRaspy" target="_blank">
+<a href="https://tiktok.com/@byraspy7" target="_blank">
   <img src="https://img.shields.io/badge/tiktok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="tiktok"/>
 </a>
 
