@@ -6,7 +6,7 @@
 
 <br><br>
 
-<a href="https://youtube.com/@byRaspy" target="_blank">
+<a href="https://youtube.com/@byRaspy7" target="_blank">
   <img src="https://cdn.simpleicons.org/youtube/FF0000" alt="youtube" width="60"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
@@ -14,7 +14,7 @@
   <img src="https://cdn.simpleicons.org/x/white" alt="twitter" width="60"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://tiktok.com/@byRaspy" target="_blank">
+<a href="https://tiktok.com/@byRaspy7" target="_blank">
   <img src="https://cdn.simpleicons.org/tiktok/white" alt="tiktok" width="60"/>
 </a>
 
