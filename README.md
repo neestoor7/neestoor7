@@ -52,7 +52,7 @@ Herramienta generativa que automatiza motion graphics (a partir de audios) y la 
 <br/>
 
 <!-- STACK -->
-<h3>❯ stack</h3>
+<h3>stack</h3>
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,js,ts,react,html,css,cpp,java,r,mysql,mongodb,docker,git,github,githubactions,aws,azure,linux,figma,pr,ae,bash,obsidian&perline=13&theme=dark" alt="Stack tecnológico" />
 
