@@ -35,73 +35,37 @@
 
 <div align="center">
 
-<!-- CONSOLA LINUX (SVG ANIMADO PROPIO · perfil, proyectos, idiomas y stack) -->
-<img src="./assets/console.svg" alt="Consola Linux de Néstor Espí: perfil, proyectos, idiomas y stack tecnológico" width="88%" />
+<!-- LO QUE NO ESTÁ ARRIBA: proyectos extra -->
+<h3>❯ más proyectos</h3>
 
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,js,ts,react,cpp,java,r,mysql,mongodb,docker,git,github,githubactions,aws,linux,figma,pr,ae,bash,obsidian&perline=11&theme=dark" alt="Skills Grid" />
+<table>
+<tr>
+<td width="50%" valign="top">
+<b>🎬 <code>neestoor7/motion</code></b><br/>
+Herramienta generativa que automatiza motion graphics y piezas verticales a partir de pistas de audio.
+</td>
+<td width="50%" valign="top">
+<b>📈 Growth &amp; SEO</b><br/>
+4 años de SEO técnico, analítica digital, arquitectura web y Meta Ads.
+</td>
+</tr>
+</table>
 
 <br/>
 
-<details>
-<summary><b>📄 Versión en texto</b> (accesible y copiable)</summary>
+<!-- STACK -->
+<h3>❯ stack</h3>
 
-### ❯ Profile & Background
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,js,ts,react,html,css,cpp,java,r,mysql,mongodb,docker,git,github,githubactions,aws,azure,linux,figma,pr,ae,bash,obsidian&perline=13&theme=dark" alt="Stack tecnológico" />
 
-- **Educación:** Máster en IA & Big Data Analytics (ETSIIT - UPV) y Graduado en Tecnología Digital y Multimedia (**GTDM** - UPV).
-- **Enfoque técnico:** Desarrollo Full-Stack, Machine Learning con **PyTorch** y creación de productos digitales interactivos.
-- **Metodología:** Ingeniería acelerada por IA integrando **Claude Code** a diario para refactorización, arquitectura y optimización.
-- **Objetivo:** Multimedia Technologist y Creador de Contenido formándome como **AI Engineer**.
+<br/><br/>
 
----
-
-### ✦ Proyectos y Trayectoria
-
-- **`inazudle.com`** — Aplicación web interactiva desarrollada y desplegada en producción a escala real con base de usuarios activa.
-- **`byRaspy` (YouTube, +50.000 subs)** — Más de 7 años de creación audiovisual, edición avanzada, storytelling y motion graphics.
-- **`neestoor7/motion`** — Herramienta generativa para automatizar motion graphics y piezas verticales a partir de pistas de audio.
-- **Optimización & Growth** — 4 años de experiencia en SEO técnico, analítica digital, arquitectura web y Meta Ads.
-
----
-
-### 🌐 Idiomas & Certificaciones
-
-- **Inglés:** **C1 Advanced** — Cambridge Certificate (Valencia)
-- **Valenciano:** **C1** — Certificado Oficial JQCV
-- **Japonés:** Actualmente en formación continua
-
----
-
-### 🛠️ Tech Stack & Herramientas
-
-| Área | Tecnologías Clave |
-| :--- | :--- |
-| **Machine Learning & Datos** | Python, PyTorch, Scikit-Learn, MongoDB, SQL |
-| **Desarrollo & Frontend** | JavaScript, React, TypeScript, C++, Java, R, HTML5, CSS3, Bash |
-| **Cloud, DevOps & Entornos** | Docker, Git, GitHub Actions, AWS, Azure, Claude Code, Linux, macOS |
-| **Audiovisual & Motion** | Premiere Pro, After Effects, Figma, Motion Design Generativo |
-
-</details>
-
-</div>
-
----
-
-<div align="center">
-
-<!-- ENLACES DE CONTACTO -->
-<a href="https://youtube.com/@byRaspy7">
-  <img src="https://img.shields.io/badge/YouTube-byRaspy7-161b22?style=flat-square&logo=youtube&logoColor=FF0000&labelColor=0d1117" alt="YouTube" />
-</a>
+<!-- CONTACTO -->
 <a href="https://twitter.com/byRaspy">
   <img src="https://img.shields.io/badge/Twitter-@byRaspy-161b22?style=flat-square&logo=x&logoColor=white&labelColor=0d1117" alt="Twitter" />
 </a>
 <a href="mailto:nestorespisanchez@gmail.com">
   <img src="https://img.shields.io/badge/Email-nestorespisanchez%40gmail.com-161b22?style=flat-square&logo=gmail&logoColor=00F0FF&labelColor=0d1117" alt="Email" />
-</a>
-<a href="https://github.com/neestoor7">
-  <img src="https://img.shields.io/badge/GitHub-neestoor7-161b22?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" />
 </a>
 
 <br/><br/>
