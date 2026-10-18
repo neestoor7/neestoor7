@@ -26,10 +26,8 @@
 
 <br/><br/>
 
-<!-- SUBTÍTULO MECANOGRAFIADO MULTICOLOR -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00F0FF;FF0055;00FFCC;FFD700;7928CA;FF8C00&center=true&vCenter=true&width=780&lines=Graduado+Multimedia+GTDM+%2B+Master+IA+y+Big+Data+en+UPV;Co-creador+de+Inazudle.com+(App+Web+en+Produccion);7+Años+creando+audiovisual+en+byRaspy+(%2B50k+subs);Desarrollo+con+Python%2C+React+y+PyTorch;Metodologia+acelerada+con+Claude+Code;Aprendiendo+y+formandome+como+AI+Engineer" alt="Typing SVG" />
-</a>
+<!-- SUBTÍTULO MECANOGRAFIADO (SVG PROPIO · un color por frase) -->
+<img src="./assets/typing.svg" alt="Graduado Multimedia GTDM + Máster IA y Big Data en UPV · Co-creador de Inazudle.com · 7 Años creando audiovisual en byRaspy (+50k subs) · Desarrollo con Python, React y PyTorch · Metodología acelerada con Claude Code · Aprendiendo y formándome como AI Engineer" width="780" />
 
 </div>
 
