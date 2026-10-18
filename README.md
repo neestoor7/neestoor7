@@ -21,7 +21,7 @@
 
 <!-- TERMINAL MACOS PERSONALIZADA -->
 <a href="https://github.com/neestoor7">
-  <img src="./assets/terminal.svg" alt="Terminal macOS de Néstor Espí: estudios, proyectos, IA, Claude Code e idiomas" width="88%" />
+  <img src="./assets/terminal.svg" alt="Terminal macOS de Néstor Espí: estudios, proyectos, IA, Claude Code e idiomas" width="100%" />
 </a>
 
 <br/><br/>
