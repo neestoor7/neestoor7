@@ -34,7 +34,7 @@
 <div align="center">
 
 <!-- proyectos extra -->
-<h3>❯ más proyectos</h3>
+<h3>más proyectos</h3>
 
 <table>
 <tr>
