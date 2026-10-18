@@ -28,7 +28,7 @@
 
 <!-- SUBTÍTULO MECANOGRAFIADO MULTICOLOR -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00F0FF;FF0055;00FFCC;FFD700;7928CA&center=true&vCenter=true&width=780&lines=Graduado+Multimedia+GTDM+%2B+Master+IA+y+Big+Data+en+UPV;Co-creador+de+Inazudle.com+(App+Web+en+Produccion);7+Años+creando+audiovisual+en+byRaspy+(%2B50k+subs);Desarrollo+con+Python%2C+React+y+PyTorch;Metodologia+acelerada+con+Claude+Code;Aprendiendo+y+formandome+como+AI+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00F0FF;FF0055;00FFCC;FFD700;7928CA;FF8C00&center=true&vCenter=true&width=780&lines=Graduado+Multimedia+GTDM+%2B+Master+IA+y+Big+Data+en+UPV;Co-creador+de+Inazudle.com+(App+Web+en+Produccion);7+Años+creando+audiovisual+en+byRaspy+(%2B50k+subs);Desarrollo+con+Python%2C+React+y+PyTorch;Metodologia+acelerada+con+Claude+Code;Aprendiendo+y+formandome+como+AI+Engineer" alt="Typing SVG" />
 </a>
 
 </div>
