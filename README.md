@@ -21,13 +21,13 @@
 
 <!-- TERMINAL MACOS PERSONALIZADA -->
 <a href="https://github.com/neestoor7">
-  <img src="./assets/terminal.svg" alt="Terminal macOS de Néstor Espí: estudios, proyectos, IA, Claude Code e idiomas" width="100%" />
+  <img src="./assets/terminal.svg" alt="Terminal macOS de Néstor Espí: estudios, proyectos, SEO, agentes de IA e idiomas" width="100%" />
 </a>
 
 <br/><br/>
 
 <!-- SUBTÍTULO MECANOGRAFIADO -->
-<img src="./assets/typing.svg" alt="Graduado Multimedia GTDM + Máster IA y Big Data en UPV · Co-creador de Inazudle.com · 7 Años creando audiovisual en byRaspy (+50k subs) · Desarrollo con Python, React y PyTorch · Metodología acelerada con Claude Code · Aprendiendo y formándome como AI Engineer" width="780" />
+<img src="./assets/typing.svg" alt="Graduado Multimedia GTDM + Máster IA y Big Data en UPV · Co-creador de Inazudle.com · 7 Años creando audiovisual en byRaspy (+50k subs) · Desarrollo con Python, React y PyTorch · Metodología acelerada con agentes de IA · Aprendiendo y formándome como AI Engineer" width="780" />
 
 </div>
 
@@ -36,18 +36,8 @@
 <!-- PROYECTOS EXTRA -->
 <h3>más proyectos</h3>
 
-<table>
-<tr>
-<td width="50%" valign="top">
 <b>🎬 <code>neestoor7/motion</code></b><br/>
 Herramienta generativa que automatiza motion graphics (a partir de audios) y la generación inteligente y publicación de YouTube Shorts/TikToks/Reels (a partir de videos largos).
-</td>
-<td width="50%" valign="top">
-<b>📈 Growth &amp; SEO</b><br/>
-4 años de SEO técnico, analítica digital, arquitectura web y Meta Ads.
-</td>
-</tr>
-</table>
 
 <br/>
 
