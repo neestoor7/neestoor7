@@ -27,7 +27,7 @@
 <br/><br/>
 
 <!-- SUBTÍTULO MECANOGRAFIADO -->
-<img src="./assets/typing.svg" alt="Graduado Multimedia GTDM + Máster IA y Big Data en UPV · Co-creador de Inazudle.com · 7 Años creando audiovisual en byRaspy (+50k subs) · Desarrollo con Python, React y PyTorch · Metodología acelerada con agentes de IA · Aprendiendo y formándome como AI Engineer" width="780" />
+<img src="./assets/typing.svg" alt="Graduado Multimedia GTDM + Máster IA y Big Data en UPV · Desarrollo con Python, React y PyTorch · 4 años de SEO técnico, analítica digital y Meta Ads · 7 Años creando audiovisual en byRaspy (+50k subs) · Co-creador de Inazudle.com · Aprendiendo y formándome como AI Engineer · Metodología acelerada con agentes de IA" width="780" />
 
 </div>
 
@@ -53,9 +53,6 @@ Herramienta generativa que automatiza motion graphics (a partir de audios) y la 
 <br/>
 
 <!-- CONTACTO -->
-<a href="https://twitter.com/byRaspy">
-  <img src="https://img.shields.io/badge/Twitter-@byRaspy-161b22?style=flat-square&logo=x&logoColor=white&labelColor=0d1117" alt="Twitter" />
-</a>
 <a href="mailto:nestorespisanchez@gmail.com">
   <img src="https://img.shields.io/badge/Email-nestorespisanchez%40gmail.com-161b22?style=flat-square&logo=gmail&logoColor=00F0FF&labelColor=0d1117" alt="Email" />
 </a>
