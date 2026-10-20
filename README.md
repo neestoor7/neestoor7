@@ -6,6 +6,6 @@
 <picture><img src="./assets/proj-3.svg" width="50%" align="top" alt="motion (en desarrollo). Herramienta propia · motion graphics" /></picture><picture><img src="./assets/proj-4.svg" width="50%" align="top" alt="SEO técnico. 4 años · analítica digital y Meta Ads" /></picture><br/>
 <picture><img src="./assets/cmd-agents.svg" width="100%" align="top" alt="agents --status" /></picture><br/>
 <picture><img src="./assets/agents-1.svg" width="50%" align="top" alt="Formándome como AI Engineer. PyTorch · Machine Learning" /></picture><picture><img src="./assets/agents-2.svg" width="50%" align="top" alt="Agentes de IA. Metodología acelerada" /></picture><br/>
-<picture><img src="./assets/stack.svg" width="100%" align="top" alt="Idiomas: Inglés C1 Cambridge, Valenciano C1 JQCV, Japonés aprendiendo. Stack: Python, PyTorch, scikit-learn, R, MySQL, MongoDB, JavaScript, TypeScript, React, HTML, CSS, Java, Docker, Git, GitHub, GitHub Actions, AWS, Linux, Bash, Obsidian, Premiere Pro, After Effects, CapCut" /></picture><br/>
+<picture><img src="./assets/stack.svg" width="100%" align="top" alt="Idiomas: Inglés C1 Cambridge, Valenciano C1 JQCV, Japonés aprendiendo. Stack: Python, PyTorch, scikit-learn, R, MySQL, MongoDB, JavaScript, TypeScript, React, HTML, CSS, Java, Docker, Git, GitHub, GitHub Actions, AWS, Linux, Bash, Obsidian, Premiere Pro, After Effects, Photoshop, Canva, CapCut" /></picture><br/>
 <a href="mailto:nestorespisanchez@gmail.com"><img src="./assets/contacto.svg" width="100%" align="top" alt="Contacto: nestorespisanchez@gmail.com" /></a>
 </div>
