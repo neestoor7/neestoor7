@@ -1,5 +1,7 @@
 <div align="center">
 <picture><img src="./assets/terminal.svg" width="100%" align="top" alt="Terminal de Néstor Espí (neestoor7@github): Multimedia Technologist · AI Engineer · Content Creator" /></picture><br/>
+<a href="mailto:nestorespisanchez@gmail.com"><img src="./assets/mail.svg" width="100%" align="top" alt="Correo: nestorespisanchez@gmail.com" /></a><br/>
+<picture><img src="./assets/about.svg" width="100%" align="top" alt="cat about.txt · cat education.txt" /></picture><br/>
 <a href="https://www.upv.es/titulaciones/GTDM/indexc.html"><img src="./assets/edu-1.svg" width="50%" align="top" alt="Graduado Multimedia GTDM. UPV · Tecnología Digital y Multimedia" /></a><a href="https://www.cfp.upv.es/formacion-permanente/curso/master-formacion-permanente-inteligencia-artificial-big-data-analytics_104164.html"><img src="./assets/edu-2.svg" width="50%" align="top" alt="Máster IA y Big Data. UPV · ETSINF" /></a><br/>
 <picture><img src="./assets/cmd-projects.svg" width="100%" align="top" alt="ls ~/projects" /></picture><br/>
 <a href="https://youtube.com/@byRaspy7"><img src="./assets/proj-1.svg" width="50%" align="top" alt="byRaspy. YouTube · +50k subs · 7 años" /></a><a href="https://inazudle.com"><img src="./assets/proj-2.svg" width="50%" align="top" alt="Inazudle.com. Co-creador · app web en producción" /></a><br/>
@@ -7,7 +9,7 @@
 <picture><img src="./assets/cmd-agents.svg" width="100%" align="top" alt="agents --status" /></picture><br/>
 <picture><img src="./assets/agents-1.svg" width="50%" align="top" alt="Formándome como AI Engineer. PyTorch · Machine Learning" /></picture><picture><img src="./assets/agents-2.svg" width="50%" align="top" alt="Agentes de IA. Metodología acelerada" /></picture><br/>
 <picture><img src="./assets/stack.svg" width="100%" align="top" alt="Idiomas: Inglés C1 Cambridge, Valenciano C1 JQCV, Japonés aprendiendo. Stack: Python, PyTorch, scikit-learn, R, MySQL, MongoDB, JavaScript, TypeScript, React, HTML, CSS, Java, Docker, Git, GitHub, GitHub Actions, AWS, Linux, Bash, Obsidian, Premiere Pro, After Effects, Photoshop, Canva, CapCut" /></picture><br/>
-<a href="mailto:nestorespisanchez@gmail.com"><img src="./assets/contacto.svg" width="100%" align="top" alt="Contacto: nestorespisanchez@gmail.com" /></a>
+<picture><img src="./assets/fin.svg" width="100%" align="top" alt="Fin de la sesión" /></picture>
 </div>
 
 <details>
