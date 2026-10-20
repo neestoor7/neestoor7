@@ -27,7 +27,7 @@
 <br/><br/>
 
 <!-- SUBTÍTULO MECANOGRAFIADO -->
-<img src="./assets/typing.svg" alt="Graduado Multimedia GTDM + Máster IA y Big Data en UPV · Desarrollo con Python, React y PyTorch · 4 años de SEO técnico, analítica digital y Meta Ads · 7 Años creando audiovisual en byRaspy (+50k subs) · Co-creador de Inazudle.com · Aprendiendo y formándome como AI Engineer · Metodología acelerada con agentes de IA" width="780" />
+<img src="./assets/typing.svg" alt="Graduado Multimedia GTDM + Máster IA y Big Data en UPV · Desarrollo con Python, React y PyTorch · 4 años de SEO técnico, analítica digital y Meta Ads · 7 Años creando contenido audiovisual en byRaspy (+50k subs) · Co-creador de Inazudle.com · Aprendiendo y formándome como AI Engineer · Metodología acelerada con agentes de IA" width="780" />
 
 </div>
 
