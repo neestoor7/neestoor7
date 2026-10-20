@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="41" viewBox="0 0 900 41" role="img" aria-label="agents --status">
+<title>agents --status</title>
+<style>text{font-family:"SF Mono",SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","DejaVu Sans Mono",monospace;font-size:14px;white-space:pre}.b{font-weight:700}.blink{animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}</style>
+<defs><clipPath id="c1"><rect x="200.4" y="12" height="32" width="0"><animate attributeName="width" values="0.0;8.4;16.8;25.2;33.6;42.0;50.4;58.8;67.2;75.6;84.0;92.4;100.8;109.2;117.6;126.0" begin="4.35s" dur="0.560s" calcMode="discrete" fill="freeze"/></rect></clipPath></defs>
+<rect x="0.5" y="-20" width="899.0" height="81" rx="12" fill="#000000"/>
+<rect x="0.5" y="-20" width="899.0" height="81" rx="12" fill="none" stroke="#333333"/>
+<g opacity="0"><set attributeName="opacity" to="1" begin="4.20s" fill="freeze"/><text x="24" y="30" textLength="176.4" lengthAdjust="spacing"><tspan fill="#5ffa68">neestoor7</tspan><tspan fill="#c7c7c7">@</tspan><tspan fill="#5ffa68">github</tspan><tspan fill="#6871ff"> ~ </tspan><tspan fill="#c7c7c7">% </tspan></text></g>
+<g clip-path="url(#c1)"><text x="200.4" y="30" textLength="126.0" lengthAdjust="spacing"><tspan fill="#f2f2f2">agents --status</tspan></text></g>
+<rect x="200.4" y="17" width="8.4" height="17" fill="#f2f2f2" opacity="0"><set attributeName="opacity" to=".8" begin="4.20s"/><animate attributeName="x" values="200.4;208.8;217.2;225.6;234.0;242.4;250.8;259.2;267.6;276.0;284.4;292.8;301.2;309.6;318.0;326.4" begin="4.35s" dur="0.560s" calcMode="discrete" fill="freeze"/><set attributeName="opacity" to="0" begin="5.06s" fill="freeze"/></rect>
+</svg>
