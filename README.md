@@ -45,8 +45,8 @@ Herramienta generativa que automatiza motion graphics (a partir de audios) y la 
 <h3>stack</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,js,ts,react,html,css,cpp,java,r,mysql,mongodb&perline=13&theme=dark" alt="Dev &amp; AI Stack" /><br/>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,aws,azure,linux,bash,obsidian,figma,pr,ae&perline=12&theme=dark" alt="DevOps, Tools &amp; Creative" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,js,ts,react,html,css,java,r,mysql,mongodb&perline=13&theme=dark" alt="Dev &amp; AI Stack" /><br/>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,aws,linux,bash,obsidian,pr,ae&perline=12&theme=dark" alt="DevOps, Tools &amp; Creative" />
   <img src="./assets/capcut.svg" width="48" height="48" alt="CapCut" />
 </p>
 
