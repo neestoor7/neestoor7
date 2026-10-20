@@ -6,5 +6,5 @@
 <rect x="0.5" y="-20" width="899.0" height="117" rx="12" fill="none" stroke="#333333"/>
 <g opacity="0"><set attributeName="opacity" to="1" begin="8.40s" fill="freeze"/><text x="24" y="60" textLength="176.4" lengthAdjust="spacing"><tspan fill="#5ffa68">neestoor7</tspan><tspan fill="#c7c7c7">@</tspan><tspan fill="#5ffa68">github</tspan><tspan fill="#6871ff"> ~ </tspan><tspan fill="#c7c7c7">% </tspan></text></g>
 <g clip-path="url(#c1)"><text x="200.4" y="60" textLength="126.0" lengthAdjust="spacing"><tspan fill="#f2f2f2">agents --status</tspan></text></g>
-<rect x="200.4" y="47" width="8.4" height="17" fill="#f2f2f2" opacity="0"><set attributeName="opacity" to=".8" begin="8.40s"/><animate attributeName="x" values="200.4;208.8;217.2;225.6;234.0;242.4;250.8;259.2;267.6;276.0;284.4;292.8;301.2;309.6;318.0;326.4" begin="8.55s" dur="0.560s" calcMode="discrete" fill="freeze"/><set attributeName="opacity" to="0" begin="9.26s" fill="freeze"/></rect>
+<rect x="200.4" y="47" width="8.4" height="17" fill="#f2f2f2" opacity="0"><set attributeName="opacity" to=".8" begin="8.40s"/><animate attributeName="x" values="200.4;208.8;217.2;225.6;234.0;242.4;250.8;259.2;267.6;276.0;284.4;292.8;301.2;309.6;318.0;326.4" begin="8.55s" dur="0.560s" calcMode="discrete" fill="freeze"/><set attributeName="opacity" to="0" begin="9.27s" fill="freeze"/></rect>
 </svg>
