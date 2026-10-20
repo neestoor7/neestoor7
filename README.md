@@ -9,3 +9,18 @@
 <picture><img src="./assets/stack.svg" width="100%" align="top" alt="Idiomas: Inglés C1 Cambridge, Valenciano C1 JQCV, Japonés aprendiendo. Stack: Python, PyTorch, scikit-learn, R, MySQL, MongoDB, JavaScript, TypeScript, React, HTML, CSS, Java, Docker, Git, GitHub, GitHub Actions, AWS, Linux, Bash, Obsidian, Premiere Pro, After Effects, Photoshop, Canva, CapCut" /></picture><br/>
 <a href="mailto:nestorespisanchez@gmail.com"><img src="./assets/contacto.svg" width="100%" align="top" alt="Contacto: nestorespisanchez@gmail.com" /></a>
 </div>
+
+<details>
+<summary>Versión en texto</summary>
+
+**Néstor Espí** · Multimedia Technologist · AI Engineer · Content Creator
+
+Desarrollador y creativo multimedia centrado en la eficiencia y la calidad, que trabaja a diario con agentes de IA.
+
+- **Formación:** [Grado en Tecnología Digital y Multimedia](https://www.upv.es/titulaciones/GTDM/indexc.html) (UPV) y [Máster en IA y Big Data](https://www.cfp.upv.es/formacion-permanente/curso/master-formacion-permanente-inteligencia-artificial-big-data-analytics_104164.html) (UPV · ETSINF).
+- **Proyectos:** [byRaspy](https://youtube.com/@byRaspy7) (YouTube, +50k subs, 7 años), co-creador de [Inazudle.com](https://inazudle.com), motion (herramienta propia en desarrollo) y 4 años de SEO técnico.
+- **Idiomas:** inglés C1, valenciano C1 y japonés en curso.
+- **Stack:** Python, PyTorch, scikit-learn, R, MySQL, MongoDB, JavaScript, TypeScript, React, HTML, CSS, Java, Docker, Git, GitHub, GitHub Actions, AWS, Linux, Bash, Obsidian, Premiere Pro, After Effects, Photoshop, Canva, CapCut.
+- **Contacto:** [nestorespisanchez@gmail.com](mailto:nestorespisanchez@gmail.com)
+
+</details>
