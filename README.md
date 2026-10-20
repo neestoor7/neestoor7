@@ -1,15 +1,15 @@
 <div align="center">
-<picture><img src="./assets/terminal.svg?v=1dd2279d" width="100%" align="top" alt="Terminal de Néstor Espí (neestoor7@github): Multimedia Technologist · AI Engineer · Content Creator" /></picture><br/>
+<picture><img src="./assets/terminal.svg?v=a64130ec" width="100%" align="top" alt="Terminal de Néstor Espí (neestoor7@github): Multimedia Technologist · AI Engineer · Content Creator" /></picture><br/>
 <a href="mailto:nestorespisanchez@gmail.com"><img src="./assets/mail.svg?v=4293a48b" width="100%" align="top" alt="Correo: nestorespisanchez@gmail.com" /></a><br/>
-<picture><img src="./assets/about.svg?v=224105df" width="100%" align="top" alt="cat about.txt · cat education.txt" /></picture><br/>
-<a href="https://www.upv.es/titulaciones/GTDM/indexc.html"><img src="./assets/edu-1.svg?v=7ab6f4d0" width="50%" align="top" alt="Graduado Multimedia GTDM. UPV · Tecnología Digital y Multimedia" /></a><a href="https://www.cfp.upv.es/formacion-permanente/curso/master-formacion-permanente-inteligencia-artificial-big-data-analytics_104164.html"><img src="./assets/edu-2.svg?v=28d06de5" width="50%" align="top" alt="Máster IA y Big Data. UPV · ETSINF" /></a><br/>
-<picture><img src="./assets/cmd-projects.svg?v=afe0fb95" width="100%" align="top" alt="ls ~/projects" /></picture><br/>
-<a href="https://youtube.com/@byRaspy7"><img src="./assets/proj-1.svg?v=977f2802" width="50%" align="top" alt="byRaspy. YouTube · +50k subs · 7 años" /></a><a href="https://inazudle.com"><img src="./assets/proj-2.svg?v=5c8bba48" width="50%" align="top" alt="Inazudle.com. Co-creador · app web en producción" /></a><br/>
-<picture><img src="./assets/proj-3.svg?v=fe815267" width="50%" align="top" alt="motion (en desarrollo). Herramienta propia · motion graphics" /></picture><picture><img src="./assets/proj-4.svg?v=20b8a6f1" width="50%" align="top" alt="SEO técnico. 4 años · analítica digital y Meta Ads" /></picture><br/>
-<picture><img src="./assets/cmd-agents.svg?v=098ce607" width="100%" align="top" alt="agents --status" /></picture><br/>
-<picture><img src="./assets/agents-1.svg?v=3545231c" width="50%" align="top" alt="Formándome como AI Engineer. PyTorch · Machine Learning" /></picture><picture><img src="./assets/agents-2.svg?v=85f3c359" width="50%" align="top" alt="Agentes de IA. Metodología acelerada" /></picture><br/>
-<picture><img src="./assets/stack.svg?v=f3155a88" width="100%" align="top" alt="Idiomas: Inglés C1 Cambridge, Valenciano C1 JQCV, Japonés aprendiendo. Stack: Python, PyTorch, scikit-learn, R, MySQL, MongoDB, JavaScript, TypeScript, React, HTML, CSS, Java, Docker, Git, GitHub, GitHub Actions, AWS, Linux, Bash, Obsidian, Premiere Pro, After Effects, Photoshop, Canva, CapCut" /></picture><br/>
-<picture><img src="./assets/fin.svg?v=7cde5eca" width="100%" align="top" alt="Fin de la sesión" /></picture>
+<picture><img src="./assets/about.svg?v=a3984ed8" width="100%" align="top" alt="cat about.txt · cat education.txt" /></picture><br/>
+<a href="https://www.upv.es/titulaciones/GTDM/indexc.html"><img src="./assets/edu-1.svg?v=a0aaccb3" width="50%" align="top" alt="Graduado Multimedia GTDM. UPV · Tecnología Digital y Multimedia" /></a><a href="https://www.cfp.upv.es/formacion-permanente/curso/master-formacion-permanente-inteligencia-artificial-big-data-analytics_104164.html"><img src="./assets/edu-2.svg?v=e67d82bc" width="50%" align="top" alt="Máster IA y Big Data. UPV · ETSINF" /></a><br/>
+<picture><img src="./assets/cmd-projects.svg?v=d2fcbded" width="100%" align="top" alt="ls ~/projects" /></picture><br/>
+<a href="https://youtube.com/@byRaspy7"><img src="./assets/proj-1.svg?v=8fc771d8" width="50%" align="top" alt="byRaspy. YouTube · +50k subs · 7 años" /></a><a href="https://inazudle.com"><img src="./assets/proj-2.svg?v=0a04f78a" width="50%" align="top" alt="Inazudle.com. Co-creador · app web en producción" /></a><br/>
+<picture><img src="./assets/proj-3.svg?v=280109e8" width="50%" align="top" alt="motion (en desarrollo). Herramienta propia · motion graphics" /></picture><picture><img src="./assets/proj-4.svg?v=35813861" width="50%" align="top" alt="SEO técnico. 4 años · analítica digital y Meta Ads" /></picture><br/>
+<picture><img src="./assets/cmd-agents.svg?v=7685271b" width="100%" align="top" alt="agents --status" /></picture><br/>
+<picture><img src="./assets/agents-1.svg?v=82c42f0e" width="50%" align="top" alt="Formándome como AI Engineer. PyTorch · Machine Learning" /></picture><picture><img src="./assets/agents-2.svg?v=cc2909a0" width="50%" align="top" alt="Agentes de IA. Metodología acelerada" /></picture><br/>
+<picture><img src="./assets/stack.svg?v=6e8a599f" width="100%" align="top" alt="Idiomas: Inglés C1 Cambridge, Valenciano C1 JQCV, Japonés aprendiendo. Stack: Python, PyTorch, scikit-learn, R, MySQL, MongoDB, JavaScript, TypeScript, React, HTML, CSS, Java, Docker, Git, GitHub, GitHub Actions, AWS, Linux, Bash, Obsidian, Premiere Pro, After Effects, Photoshop, Canva, CapCut" /></picture><br/>
+<picture><img src="./assets/fin.svg?v=e9dd775b" width="100%" align="top" alt="Fin de la sesión" /></picture>
 </div>
 
 <details>
