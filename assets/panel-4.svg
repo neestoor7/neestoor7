@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="450" height="74" viewBox="0 0 450 74" role="img" aria-label="4 años de SEO técnico. Analítica digital y Meta Ads">
+<defs><clipPath id="wipe"><rect x="0" y="0" height="74" width="0"><animate attributeName="width" from="0" to="450" begin="0.65s" dur="0.8s" calcMode="spline" keySplines=".6 0 .2 1" keyTimes="0;1" fill="freeze"/></rect></clipPath></defs>
+<path d="M0,0H450V74H0V0Z" fill="#1a1b26"/>
+<g clip-path="url(#wipe)">
+<g transform="translate(16.0,0) scale(1.6666666666666667)" color="#FF8C00" fill="none" stroke="#FF8C00" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M3 17l6-6 4 4 8-8M15 7h6v6"/></g>
+<text x="90.0" y="18" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#FF8C00">4 años de SEO técnico</text>
+<text x="90.0" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#9aa5ce">Analítica digital y Meta Ads</text>
+</g></svg>

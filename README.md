@@ -3,22 +3,6 @@
 <!-- HEADER WAVE CON DEGRADADO -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,15,11,6,1&height=210&section=header&text=N%C3%A9stor%20Esp%C3%AD&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Multimedia%20Technologist%20%E2%80%A2%20Content%20Creator%20%E2%80%A2%20AI%20Engineer&descAlignY=62&descAlign=50" width="100%" />
 
-<!-- BOTONES SUPERIORES ESTILIZADOS -->
-<a href="https://www.cfp.upv.es/formacion-permanente/curso/master-formacion-permanente-inteligencia-artificial-big-data-analytics_104164.html">
-  <img src="./assets/badge-master.svg" alt="UPV | Máster IA &amp; Big Data" height="34" />
-</a>
-<a href="https://www.upv.es/titulaciones/GTDM/indexc.html">
-  <img src="./assets/badge-gtdm.svg" alt="UPV | Grado GTDM" height="34" />
-</a>
-<a href="https://youtube.com/@byRaspy7">
-  <img src="./assets/badge-youtube.svg" alt="YouTube | +50K Subs · byRaspy" height="34" />
-</a>
-<a href="https://inazudle.com">
-  <img src="./assets/badge-inazudle.svg" alt="Live App | inazudle.com" height="34" />
-</a>
-
-<br/><br/>
-
 <!-- TERMINAL MACOS PERSONALIZADA -->
 <a href="https://github.com/neestoor7">
   <img src="./assets/terminal.svg" alt="Terminal macOS de Néstor Espí: estudios, proyectos, SEO, agentes de IA e idiomas" width="100%" />
@@ -26,8 +10,11 @@
 
 <br/><br/>
 
-<!-- SUBTÍTULO MECANOGRAFIADO -->
-<img src="./assets/typing.svg" alt="Graduado Multimedia GTDM + Máster IA y Big Data en UPV · Desarrollo con Python, React y PyTorch · 4 años de SEO técnico, analítica digital y Meta Ads · 7 Años creando audiovisual en byRaspy (+50k subs) · Co-creador de Inazudle.com · Aprendiendo y formándome como AI Engineer · Metodología acelerada con agentes de IA" width="780" />
+<!-- PANEL DE LOGROS (cada pieza enlaza a lo suyo) -->
+<a href="https://www.upv.es/titulaciones/GTDM/indexc.html"><img src="./assets/panel-1.svg" width="50%" align="top" alt="Graduado Multimedia GTDM. UPV · Tecnología Digital y Multimedia" /></a><a href="https://www.cfp.upv.es/formacion-permanente/curso/master-formacion-permanente-inteligencia-artificial-big-data-analytics_104164.html"><img src="./assets/panel-2.svg" width="50%" align="top" alt="Máster IA y Big Data. UPV · ETSINF" /></a><br/>
+<img src="./assets/panel-3.svg" width="50%" align="top" alt="Python · React · PyTorch. Desarrollo y Machine Learning" /><img src="./assets/panel-4.svg" width="50%" align="top" alt="4 años de SEO técnico. Analítica digital y Meta Ads" /><br/>
+<a href="https://youtube.com/@byRaspy7"><img src="./assets/panel-5.svg" width="50%" align="top" alt="7 años creando contenido audiovisual. byRaspy · +50k subs" /></a><a href="https://inazudle.com"><img src="./assets/panel-6.svg" width="50%" align="top" alt="Co-creador de Inazudle.com. App web en producción" /></a><br/>
+<img src="./assets/panel-7.svg" width="50%" align="top" alt="Formándome como AI Engineer. Aprendiendo cada día" /><img src="./assets/panel-8.svg" width="50%" align="top" alt="Agentes de IA. Metodología acelerada" />
 
 </div>
 

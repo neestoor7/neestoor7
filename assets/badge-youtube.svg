@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="246" height="34" viewBox="0 0 246 34" role="img" aria-label="YouTube | +50K Subs · byRaspy">
-  <defs><linearGradient id="yGrad" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#ff5555" stop-opacity="0.8"/><stop offset="100%" stop-color="#ff79c6" stop-opacity="0.4"/></linearGradient></defs>
-  <rect x="0.5" y="0.5" width="245" height="33" rx="16.5" fill="#161b22" stroke="url(#yGrad)" stroke-width="1.2"/>
-  <g transform="translate(11, 9)"><svg width="20" height="16" viewBox="0 0 24 24" fill="none"><path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814z" fill="#ff4444"/><path d="M9.545 15.568V8.432L15.818 12l-6.273 3.568z" fill="#ffffff"/></svg></g>
-  <text x="36" y="21.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" fill="#ff5555" textLength="51.0" lengthAdjust="spacingAndGlyphs">YouTube</text>
-  <text x="95.0" y="21.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" fill="#565f89">|</text>
-  <text x="104.0" y="21.5" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#f0f6fc" textLength="128.2" lengthAdjust="spacingAndGlyphs">+50K Subs · byRaspy</text>
-</svg>

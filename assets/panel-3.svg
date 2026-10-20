@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="450" height="74" viewBox="0 0 450 74" role="img" aria-label="Python · React · PyTorch. Desarrollo y Machine Learning">
+<defs><clipPath id="wipe"><rect x="0" y="0" height="74" width="0"><animate attributeName="width" from="0" to="450" begin="0.50s" dur="0.8s" calcMode="spline" keySplines=".6 0 .2 1" keyTimes="0;1" fill="freeze"/></rect></clipPath></defs>
+<path d="M0,0H450V74H0V0Z" fill="#1a1b26"/>
+<g clip-path="url(#wipe)">
+<g transform="translate(46.0,-2) scale(1.8333333333333333)"><path d="M11.91 2C6.83 2 7.15 4.21 7.15 4.21l.01 2.29h4.84v.69H5.16S2 6.83 2 11.92c0 5.08 2.76 4.9 2.76 4.9h1.64v-2.31s-.09-2.76 2.71-2.76h4.66s2.62.04 2.62-2.58V4.67S16.99 2 11.91 2zm-2.07 1.48a.93.93 0 1 1 0 1.86.93.93 0 0 1 0-1.86z" fill="#00f0ff"/><path d="M12.09 22c5.08 0 4.76-2.21 4.76-2.21l-.01-2.29h-4.84v-.69h6.84S22 17.17 22 12.08c0-5.08-2.76-4.9-2.76-4.9h-1.64v2.31s.09 2.76-2.71 2.76h-4.66s-2.62-.04-2.62 2.58v4.5S7.01 22 12.09 22zm2.07-1.48a.93.93 0 1 1 0-1.86.93.93 0 0 1 0 1.86z" fill="#7aa2f7"/></g>
+<text x="122.0" y="18" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#7CFC00">Python · React · PyTorch</text>
+<text x="122.0" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#9aa5ce">Desarrollo y Machine Learning</text>
+</g></svg>
