@@ -1,1 +1,0 @@
-{"version":"0.0.1","configurations":[{"name":"preview-perfil","runtimeExecutable":"python","runtimeArgs":["-m","http.server","8791","--directory","C:/Users/nesto/AppData/Local/Temp/claude/C--Users-nesto-Desktop-neestoor7--claude-worktrees-terminal-assets-animations-6a6110/fa0695e9-5d06-45f8-a3ab-ae5345fbe571/scratchpad/m"],"port":8791,"autoPort":false}]}
