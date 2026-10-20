@@ -8,7 +8,7 @@
 <circle cx="22" cy="18" r="6" fill="#ff5f57"/><circle cx="42" cy="18" r="6" fill="#febc2e"/><circle cx="62" cy="18" r="6" fill="#28c840"/>
 <text x="450.0" y="23" text-anchor="middle" fill="#8a8a8a" style="font-size:13px">neestoor7@github: ~ — zsh</text>
 <rect x="0.5" y="0.5" width="899.0" height="521.5" rx="12" fill="none" stroke="#333333"/>
-<g opacity="0"><set attributeName="opacity" to="1" begin="0.40s" fill="freeze"/><text x="24" y="66" textLength="352.8" lengthAdjust="spacing"><tspan fill="#8a8a8a">Last login: Tue Oct 20 13:41:38 on ttys000</tspan></text></g>
+<g opacity="0"><set attributeName="opacity" to="1" begin="0.40s" fill="freeze"/><text x="24" y="66" textLength="352.8" lengthAdjust="spacing"><tspan fill="#8a8a8a">Last login: Tue Oct 20 16:43:29 on ttys000</tspan></text></g>
 <g opacity="0"><set attributeName="opacity" to="1" begin="0.45s" fill="freeze"/><text x="24" y="89" textLength="176.4" lengthAdjust="spacing"><tspan fill="#5ffa68">neestoor7</tspan><tspan fill="#c7c7c7">@</tspan><tspan fill="#5ffa68">github</tspan><tspan fill="#6871ff"> ~ </tspan><tspan fill="#c7c7c7">% </tspan></text></g>
 <g clip-path="url(#c1)"><text x="200.4" y="89" textLength="50.4" lengthAdjust="spacing"><tspan fill="#f2f2f2">whoami</tspan></text></g>
 <rect x="200.4" y="76" width="8.4" height="17" fill="#f2f2f2" opacity="0"><set attributeName="opacity" to=".8" begin="0.45s"/><animate attributeName="x" values="200.4;208.8;217.2;225.6;234.0;242.4;250.8" begin="0.60s" dur="0.245s" calcMode="discrete" fill="freeze"/><set attributeName="opacity" to="0" begin="0.99s" fill="freeze"/></rect>
