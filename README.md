@@ -1,5 +1,5 @@
 <div align="center">
-<picture><img src="./assets/terminal.svg" width="100%" align="top" alt="Terminal de Néstor Espí (neestoor7@github): Multimedia Technologist · Content Creator · AI Engineer" /></picture><br/>
+<picture><img src="./assets/terminal.svg" width="100%" align="top" alt="Terminal de Néstor Espí (neestoor7@github): Multimedia Technologist · AI Engineer · Content Creator" /></picture><br/>
 <a href="https://www.upv.es/titulaciones/GTDM/indexc.html"><img src="./assets/edu-1.svg" width="50%" align="top" alt="Graduado Multimedia GTDM. UPV · Tecnología Digital y Multimedia" /></a><a href="https://www.cfp.upv.es/formacion-permanente/curso/master-formacion-permanente-inteligencia-artificial-big-data-analytics_104164.html"><img src="./assets/edu-2.svg" width="50%" align="top" alt="Máster IA y Big Data. UPV · ETSINF" /></a><br/>
 <picture><img src="./assets/cmd-projects.svg" width="100%" align="top" alt="ls ~/projects" /></picture><br/>
 <a href="https://youtube.com/@byRaspy7"><img src="./assets/proj-1.svg" width="50%" align="top" alt="byRaspy. YouTube · +50k subs · 7 años" /></a><a href="https://inazudle.com"><img src="./assets/proj-2.svg" width="50%" align="top" alt="Inazudle.com. Co-creador · app web en producción" /></a><br/>
